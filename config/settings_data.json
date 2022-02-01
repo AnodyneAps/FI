@@ -1,0 +1,1478 @@
+{
+  "current": {
+    "sticky_header": true,
+    "sticky_announcement_bar": true,
+    "hero_header": false,
+    "height_header": 100,
+    "height_header_mobile": 70,
+    "icon": "material-icons-outlined",
+    "grid_product_truncate": false,
+    "collection_grid_card": false,
+    "collection_grid_products_count": false,
+    "collection_grid_animation": true,
+    "collection_grid_button_style": "",
+    "word_count": 33,
+    "show_currency_selector": false,
+    "localization_position": "header",
+    "section_height": "small",
+    "section_height_mobile": "small",
+    "border_radius": 1,
+    "button_padding_x": 30,
+    "button_padding_y": 15,
+    "show_top_button": false,
+    "top_button_mobile": false,
+    "top_button_position": "right",
+    "page_wrapper": "1248",
+    "payment_icon_size": 24,
+    "sale_type": "percentage",
+    "zindex_drawer": "999",
+    "cart_notes_enable": false,
+    "color_announcement_bg": "#444444",
+    "color_nav_text": "#252525",
+    "color_default": "#f7f7f7",
+    "color_headings": "#252525",
+    "color_body_text": "#353535",
+    "color_primary": "#398e82",
+    "color_secondary": "#398e82",
+    "color_accent": "#f48400",
+    "color_drawer_bg": "#f7f7f7",
+    "color_drawer_default": "#eaeaea",
+    "color_drawer_border": "#e7e7e7",
+    "color_drawer_text": "#444444",
+    "color_drawer_primary": "#398e82",
+    "color_drawer_button_text": "#eaeaea",
+    "color_drawer_secondary": "#398e82",
+    "color_drawer_input": "#ffffff",
+    "color_drawer_error_text": "#f48400",
+    "color_drawer_sales_price": "#f48400",
+    "color_drawer_overlay": "#202020",
+    "color_drawer_overlay_opacity": 35,
+    "color_footer_default": "#bbe4e1",
+    "color_footer_primary": "#398e82",
+    "color_footer_secondary": "#398e82",
+    "color_footer_sales_price": "#398e82",
+    "color_overlay": "#252525",
+    "color_transparent_nav_text": "#f7f7f7",
+    "opacity_overlay": 16,
+    "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "social_facebook_link": "https:\/\/www.facebook.com\/anodyne.dk",
+    "social_instagram_link": "",
+    "header_family": "poppins_n4",
+    "header_font_size": 32,
+    "header_font_size_big": 50,
+    "header_spacing": 0.1,
+    "accent_spacing": 0.1,
+    "button_uppercase": true,
+    "base_family": "avenir_next_n4",
+    "base_font_size": 15,
+    "custom_quantity_breaks": true,
+    "dbtfy_back_in_stock": false,
+    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_favicon": false,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_collection_filters": false,
+    "dbtfy_color_swatches": true,
+    "dbtfy_cookie_box": false,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_delivery_time": false,
+    "dbtfy_inactive_tab_message": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_inventory_quantity": false,
+    "dbtfy_live_view": false,
+    "dbtfy_mega_menu": true,
+    "dbtfy_newsletter_popup": false,
+    "dbtfy_order_feedback": false,
+    "dbtfy_order_tracking": false,
+    "dbtfy_product_tabs": true,
+    "dbtfy_quantity_breaks": false,
+    "dbtfy_quick_view": false,
+    "dbtfy_recently_viewed": false,
+    "dbtfy_sales_countdown": false,
+    "dbtfy_sales_pop": false,
+    "dbtfy_shop_protect": false,
+    "dbtfy_skip_cart": false,
+    "dbtfy_size_chart": false,
+    "dbtfy_social_discount": false,
+    "dbtfy_sticky_addtocart": false,
+    "synced_variant_image": false,
+    "dbtfy_wish_list": false,
+    "dbtfy_addtocart_animation_type": "pulse",
+    "dbtfy_addtocart_animation_interval": 15,
+    "dbtfy_back_in_stock_richtext": "<p>Giv mig besked, når produktet er på lager igen<\/p>",
+    "dbtfy_back_in_stock_btn": "Giv mig besked",
+    "dbtfy_back_in_stock_btn_animation": true,
+    "dbtfy_back_in_stock_success": "<p>Vi giver dig besked, ligeså snart produktet er på lager igen!<\/p>",
+    "dbtfy_back_in_stock_body_prefix": "Giv mig venligst besked når",
+    "dbtfy_back_in_stock_body_suffix": "følgende produkt er tilgængeligt -",
+    "dbtfy_cart_discount_label": "Alennuskoodi",
+    "dbtfy_cart_discount_placeholder": "Anna alennuskoodi. Paina Päivitä.",
+    "dbtfy_cart_discount_apply_button_label": "Paina Päivitä",
+    "nlify_cart_notification": "Sopiiko tämä tuote minulle? Suosittelemme vertaamaan omia mittoja kokotaulukon mittoihin.",
+    "dbtfy_cart_goal_before_text": "0",
+    "dbtfy_cart_goal_amount": "49",
+    "dbtfy_cart_goal_after_text": "",
+    "dbtfy_cart_goal_reached_text": "Ilmainen toimitus",
+    "dbtfy_cart_discount_savings_label": "Alennus",
+    "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
+    "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_inventory_quantity_threshold": 20,
+    "dbtfy_menu_bar_link_list": "main-menu",
+    "dbtfy_menu_bar_mobile": false,
+    "dbtfy_menu_bar_desktop": false,
+    "dbtfy_newsletter_floating_bar": false,
+    "dbtfy_floating_bar_text": "Voita Posture Shirt™",
+    "dbtfy_newsletter_popup_title": "VOITA POSTURE SHIRT",
+    "dbtfy_newsletter_popup_text": "<p>Tilaa meidän uutiskirje ja ole mukana Posture Shirt arvonnassa<\/p>",
+    "dbtfy_newsletter_popup_close": "Ei kiitos",
+    "dbtfy_newsletter_popup_title_success": "Kiitos että ilmoittauduit",
+    "dbtfy_newsletter_popup_text_success": "<p>Tulet nyt saaman meidän uutiskirjeen ja olet mukana Posture Shirt arvonnassa.<\/p>",
+    "dbtfy_newsletter_popup_reward_button": "",
+    "dbtfy_newsletter_popup_discount_name": "",
+    "dbtfy_newsletter_popup_discount_amount": "",
+    "dbtfy_order_feedback_select_title": "Hvor har du fundet os?",
+    "dbtfy_order_feedback_default_options": "Vælg en",
+    "dbtfy_order_feedback_select_options": "Fysioterapeut, Facebook, Instagram, Google, Kiropraktor, Ven\/familie",
+    "dbtfy_order_feedback_error_message": "Vælg venligst en mulighed herunder",
+    "dbtfy_order_feedback_other_option": "Andet",
+    "dbtfy_order_feedback_other_placeholder": "Hvor har du fundet os? Uddyb her",
+    "dbtfy_order_feedback_error_message_other": "Venligst udfyld tekstfeltet",
+    "dbtfy_order_feedback_title": "Hvor har du fundet os?",
+    "dbtfy_order_feedback_other_title": "Hvor har du fundet os? (andet)",
+    "dbtfy_recently_viewed_title": "Sidste sete produkter",
+    "dbtfy_smart_search_products": "Producten",
+    "dbtfy_smart_search_collections": "Collecties",
+    "dbtfy_smart_search_articles": "Artikelen",
+    "dbtfy_smart_search_pages": "Pagina's",
+    "dbtfy_smart_search_all": "Laat alle resultaten zien",
+    "dbtfy_social_discount_link": "Del og få 10% rabat",
+    "dbtfy_social_discount_popup_title": "Del og få 10% rabat",
+    "dbtfy_social_discount_popup_text": "Del med dine venner og få 10% rabat",
+    "dbtfy_social_discount_reward_title": "Tak, fordi du delte",
+    "dbtfy_social_discount_reward_text": "<p>Kopier rabatkoden herunder og indtast den, når du har lagt en vare i indkøbskurven<\/p>",
+    "dbtfy_social_discount_reward_button": "Brug rabatkode",
+    "dbtfy_social_discount_reward_code": "20GWS15",
+    "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_text": "Helppo, turvallinen ja nopea maksu",
+    "dbtfy_wish_list_add_text": "Voeg toe aan verlanglijstje",
+    "dbtfy_wish_list_remove_text": "Verwijder van verlanglijst",
+    "dbtfy_wish_list_empty_text": "Je verlanglijstje is op dit moment leeg.",
+    "dbtfy_wish_list_share_label": "Deel verlanglijstje",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+    "checkout_logo_size": "medium",
+    "checkout_accent_color": "#398e82",
+    "checkout_button_color": "#398e82",
+    "custom_inventory_quantity": true,
+    "sections": {
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "blocks": {
+          "2847b519-2d1a-4cca-8526-c22751c873e5": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä rintaliiviesi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Anodyne®-liivien käyttöikää !<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "anodyne-rintaliivit",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-rintaliiveille",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "bfd52ba5-687e-49e8-ae4d-0925aec3bd8a": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-musta",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "ac17cfd6-5c71-4d34-9e09-28b96af8f7b1": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-valkoinen",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "1cbae896-c441-4e74-8668-d24ecdb52adb": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-musta",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "7befb9a4-d274-4679-946d-809abb3d0522": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-valkoinen",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "c03c88f2-20ac-4410-baee-0d9ca3c92897": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-musta",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "b4f59c32-5ceb-40cc-9314-02f39f31bdbd": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-nude",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "b8cf6ea3-33e2-4a21-aa50-cf3de8cdbafe": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-valkoinen",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "e85e5a0c-14b8-49c6-8681-1b5181c6ffdb": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-musta",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          },
+          "f727db30-887d-49fa-bd6c-110886076533": {
+            "type": "upsell",
+            "settings": {
+              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
+              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
+              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-valkoinen",
+              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
+              "dbtfy_upsell_popup_icons": "done",
+              "button_label": "Lisää ostoskoriin - €4",
+              "dbtfy_upsell_popup_discount_name": "",
+              "dbtfy_upsell_popup_discount_amount": "",
+              "dbtfy_upsell_popup_discount_type": "%"
+            }
+          }
+        },
+        "block_order": [
+          "2847b519-2d1a-4cca-8526-c22751c873e5",
+          "bfd52ba5-687e-49e8-ae4d-0925aec3bd8a",
+          "ac17cfd6-5c71-4d34-9e09-28b96af8f7b1",
+          "1cbae896-c441-4e74-8668-d24ecdb52adb",
+          "7befb9a4-d274-4679-946d-809abb3d0522",
+          "c03c88f2-20ac-4410-baee-0d9ca3c92897",
+          "b4f59c32-5ceb-40cc-9314-02f39f31bdbd",
+          "b8cf6ea3-33e2-4a21-aa50-cf3de8cdbafe",
+          "e85e5a0c-14b8-49c6-8681-1b5181c6ffdb",
+          "f727db30-887d-49fa-bd6c-110886076533"
+        ],
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "Ei kiitos",
+          "dbtfy_upsell_popup_checkout": "Mene kassalle →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "blocks": {
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2": {
+            "type": "product-break",
+            "settings": {
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "collection",
+              "product_break_collection": "posture-shirt",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "Test2",
+              "product_break_discount_amount_1": "10",
+              "product_break_discount_type_1": "$",
+              "product_break_range_2": 3,
+              "product_break_discount_code_2": "Test3",
+              "product_break_discount_amount_2": "12",
+              "product_break_discount_type_2": "$",
+              "product_break_range_3": 2,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "%",
+              "product_break_range_4": 2,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 2,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          },
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc": {
+            "type": "cart-break",
+            "settings": {
+              "cart_break_range": 2,
+              "cart_break_discount_code": "",
+              "cart_break_discount_amount": "",
+              "cart_break_discount_type": "%"
+            }
+          }
+        },
+        "block_order": [
+          "3ecae9fd-6b11-4a20-84b1-0e99e2faaaa2",
+          "8893dfdd-3b93-46ae-af01-1c25d217f5fc"
+        ],
+        "settings": {
+          "dbtfy_quantity_breaks_text": "test",
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {}
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "settings": {
+          "dbtfy_bullet_points_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-sales-countdown": {
+        "type": "dbtfy-sales-countdown",
+        "settings": {
+          "dbtfy_sales_countdown_icons": "local_fire_department",
+          "dbtfy_sales_countdown_prefix": "Sale ends in",
+          "dbtfy_sales_countdown_suffix": "",
+          "dbtfy_sales_countdown_d": "d",
+          "dbtfy_sales_countdown_h": "h",
+          "dbtfy_sales_countdown_m": "m",
+          "dbtfy_sales_countdown_s": "s"
+        }
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": true,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "title": "Menu",
+          "drawer_top_link_list": "mobile-menu",
+          "drawer_bottom_link_list": "customer-service-mobil-menu"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>30 päivän täysi palautusoikeus & Ilmainen paluukuljetus<\/p>",
+              "announcement_counter": "",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "show_announcement": true,
+          "show_social": false,
+          "email": true,
+          "phone": true,
+          "left_message": "",
+          "right_message": "<p><a href=\"\/pages\/yhteystiedot\" title=\"Yhteystiedot\">Yhteystiedot<\/a><\/p>",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "right",
+          "header_font_size": 13,
+          "logo_link": true,
+          "default_logo": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+          "mobile_logo": "shopify:\/\/shop_images\/Anodyne_black_medium_6728745e-a674-486e-8077-9faaf5a75715.png",
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 150,
+          "logo_mobile_width": 120
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": false,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_resolution": "low_resolution",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Returns_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Ilmainen paluukuljetus<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-1": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Truck_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Ilmainen toimitus yli 49€ ostoksille<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>30 päivän täysi palautusoikeus<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "bb764f80-013b-4d19-89ae-5e332eb782cf": {
+            "type": "text",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Checkmark.png",
+              "guarantee_icon": "loyalty",
+              "title": "",
+              "text": "<p>Yli 500 000 myytyä tuotetta<\/p>",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-1",
+          "guarantee-2",
+          "bb764f80-013b-4d19-89ae-5e332eb782cf"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "lg",
+          "section_style": "section-default"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "Kategoriat",
+              "subtitle": "",
+              "footer_link_list": "footer"
+            }
+          },
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e": {
+            "type": "link_list",
+            "settings": {
+              "column_width": 1,
+              "title": "Anodyne®",
+              "subtitle": "",
+              "footer_link_list": "anodyne"
+            }
+          },
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c": {
+            "type": "text",
+            "settings": {
+              "column_width": 1,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "title": "Yhteystiedot",
+              "subtitle": "",
+              "text": "<p>Maan - tors: 10:00-16:00<br\/> Perjantaina: 10:00-15:00 <br\/><\/p>",
+              "email": true,
+              "phone": true
+            }
+          },
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210": {
+            "type": "html",
+            "settings": {
+              "column_width": 1,
+              "title": "Social",
+              "subtitle": "",
+              "facebook_link": "https:\/\/www.facebook.com\/anodyne.fi",
+              "youtube_link": "https:\/\/www.youtube.com\/channel\/UCFLDlWEPVUrvsuNjVt6sXJg",
+              "insta_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer-1",
+          "0bf661af-2d67-4ed7-9f1e-750e2c09c74e",
+          "045bae48-bfff-4e04-a080-14a99dbf2e0c",
+          "38aab7d5-4020-4b5d-aa34-5f065cd7a210"
+        ],
+        "settings": {
+          "show_social_media": false,
+          "social_title": "Follow-us on social media!",
+          "show_payment_icons": true,
+          "show_shopify_footer": false,
+          "show_debutify_footer": false,
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Tanska. ALV-tunnus: 2791837-2. <\/p><p><\/p>"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "blocks": {
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7": {
+            "type": "description",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Details"
+            }
+          },
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632": {
+            "type": "reviews",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "dbtfy_product_tabs_review": true,
+              "dbtfy_product_tabs_icons": "v",
+              "dbtfy_product_tabs_title": "Reviews"
+            }
+          },
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "<p>asdfasdfa<\/p>",
+              "dbtfy_product_tabs_html": "asdfasdf",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-zipper-musta",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "Rich text",
+              "dbtfy_product_tabs_text": "",
+              "dbtfy_product_tabs_html": "wefsdfasdfasdfa",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "mens-posture-shirt-valkoinen",
+              "dbtfy_product_tabs_collection": ""
+            }
+          },
+          "9b2470fb-ace6-451d-a928-3e222f90efc9": {
+            "type": "text",
+            "settings": {
+              "dbtfy_product_tabs_open": false,
+              "text_alignment": "text-center",
+              "dbtfy_product_tabs_icons": "",
+              "dbtfy_product_tabs_title": "wwwww",
+              "dbtfy_product_tabs_text": "<p>wewewewewewew<\/p>",
+              "dbtfy_product_tabs_html": "wesewewewewewewwewwewewwewewewewewewew",
+              "dbtfy_product_tabs_type": "",
+              "dbtfy_product_tabs_tag": "",
+              "dbtfy_product_tabs_product": "womens-posture-shirt-valkoinen",
+              "dbtfy_product_tabs_collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "3c1ba0f4-31bf-4023-8ec5-df5daa908bb7",
+          "72f69c35-ef4e-4428-a23a-b0994d0d2632",
+          "cace2e1c-86d2-4ecc-ba91-65c6898cbd62",
+          "f3ce1113-dc04-4af9-8f90-c4d8b5b4cca7",
+          "9b2470fb-ace6-451d-a928-3e222f90efc9"
+        ],
+        "settings": {
+          "dbtfy_product_tabs_position": "separate_section",
+          "show_product_vendor": false,
+          "show_product_type": true,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": true,
+          "show_sharing_icons": true,
+          "show_product_collections": true,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "dbtfy-upsell-bundles": {
+        "type": "dbtfy-upsell-bundles",
+        "settings": {
+          "dbtfy_upsell_bundles_title": "Frequently bought together",
+          "dbtfy_upsell_bundles_subtitle": "",
+          "dbtfy_upsell_bundles_total": "Total price:",
+          "dbtfy_upsell_bundles_cart": "Add selected items",
+          "dbtfy_upsell_bundles_icons": "library_add_check",
+          "dbtfy_upsell_bundles_current": "This item:",
+          "section_style": "section-border",
+          "dbtfy_upsell_bundles_reviews": false,
+          "dbtfy_upsell_bundles_limit": "2",
+          "dbtfy_upsell_bundles_position": "product"
+        }
+      },
+      "dbtfy-product-page-builder": {
+        "type": "dbtfy-product-page-builder",
+        "settings": {
+          "show_page_title": true
+        }
+      },
+      "product-row": {
+        "type": "product-row",
+        "settings": {
+          "show_product_row": true
+        }
+      },
+      "dbtfy-pricing-table": {
+        "type": "dbtfy-pricing-table",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Pricing table",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "dbtfy_button_position": "middle"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "rows": "2",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "dbtfy-faq-section": {
+        "type": "dbtfy-faq-section",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "FAQ",
+          "subtitle": "",
+          "section_style": "section-border",
+          "dbtfy_faq_searchbox": true,
+          "dbtfy_faq_search_placeholder": "Search questions...",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "Didn't find your answer?",
+          "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+          "dbtfy_faq_btn": "Get in Touch",
+          "dbtfy_faq_link": ""
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "settings": {
+          "show_related_products": false,
+          "related_collection": true,
+          "same_vendor": false,
+          "same_type": false,
+          "never_empty": true,
+          "title": "You may also like",
+          "subtitle": "",
+          "section_style": "section-border",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "slider_related_products": true,
+          "arrows": true,
+          "dots": true,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "quotes": {
+        "type": "quotes",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "title": "Testimonials",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 5
+        }
+      },
+      "16300631015589eb65": {
+        "type": "video-background",
+        "settings": {
+          "page_width": "full_width",
+          "height": "medium",
+          "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+          "show_overlay": false,
+          "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+          "image_position": "center center",
+          "video_title": "<span class=\"first\">Tervetuloa<\/span>",
+          "text_size": "medium",
+          "text_description": "<p><strong>Vaatteet Anodyneltä! Suunniteltu lisäämään ryhtitietoisuutta ja sen kautta antamaan lisää fokusta ryhtiin arjessa.<\/strong><\/p>",
+          "text_description_size": "medium",
+          "button_label": "Naiset",
+          "button_link": "shopify:\/\/collections\/naiset",
+          "second_button_label": "Miehet",
+          "second_button_link": "shopify:\/\/collections\/miehet",
+          "show_scrolldown": true
+        }
+      },
+      "1630063768bdfa2f5f": {
+        "type": "featured-services",
+        "blocks": {
+          "1630063768bdfa2f5f-0": {
+            "type": "service",
+            "settings": {
+              "title": "Ilmainen toimitus yli 49€ ostoksille",
+              "description": "",
+              "icon": "shopify:\/\/shop_images\/Truck_200px.png",
+              "uspLinkUrl": "shopify:\/\/policies\/shipping-policy"
+            }
+          },
+          "1630063768bdfa2f5f-1": {
+            "type": "service",
+            "settings": {
+              "title": "Ilmainen paluukuljetus",
+              "description": "",
+              "icon": "shopify:\/\/shop_images\/Returns_200px.png",
+              "uspLinkUrl": "shopify:\/\/policies\/shipping-policy"
+            }
+          },
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4": {
+            "type": "service",
+            "settings": {
+              "title": "Yli 500 000 myytyä tuotetta",
+              "description": "",
+              "icon": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "uspLinkUrl": "shopify:\/\/policies\/refund-policy"
+            }
+          },
+          "3011a919-3be7-41c5-aa09-25734c19504d": {
+            "type": "service",
+            "settings": {
+              "title": "30 päivän täysi palautusoikeus",
+              "description": "",
+              "icon": "shopify:\/\/shop_images\/Checkmark_200px.png",
+              "uspLinkUrl": "shopify:\/\/policies\/refund-policy"
+            }
+          }
+        },
+        "block_order": [
+          "1630063768bdfa2f5f-0",
+          "1630063768bdfa2f5f-1",
+          "66c69b66-4ba2-424e-a46c-68c81d83d5c4",
+          "3011a919-3be7-41c5-aa09-25734c19504d"
+        ],
+        "settings": {
+          "title": ""
+        }
+      },
+      "1630070175c6ebb320": {
+        "type": "featured-collections",
+        "blocks": {
+          "1630070175c6ebb320-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "posture-shirt",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "selkatuki",
+              "btn__shopnow": "shop"
+            }
+          },
+          "1630070175c6ebb320-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "muut-tuotteet",
+              "btn__shopnow": "Shop"
+            }
+          }
+        },
+        "block_order": [
+          "1630070175c6ebb320-2",
+          "1630070175c6ebb320-1",
+          "1630070175c6ebb320-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "section_height": "small",
+          "show_view_all": false,
+          "button_label": "View all",
+          "button_link": "shopify:\/\/collections",
+          "button_style": "btn--primary",
+          "slider_featured_collections": false,
+          "arrows": false,
+          "dots": false
+        }
+      },
+      "163032369225153039": {
+        "type": "mission",
+        "blocks": {
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64": {
+            "type": "html",
+            "settings": {
+              "mission_title": "Miksi valita Anodynen asentoa korjaavia vaatteita?",
+              "mission_description": "Anodynen <a href=\"\/collections\/kaikki-tuotteet\"><u>asentoa korjaavilla vaatteilla<\/u><\/a> voit helposti ja vaivattomasti saada paremman ryhdin ja vähentää kipuja ja jännityksiä niskassa, hartioissa ja selässä. Anodynen asentoa korjaavat vaatteet auttavat parantamaan tietoisuutta ryhdistä, ja niitä voidaan käyttää istuessasi toimistossa, matkoilla, aktiivisessa työssä tai urheilun aikana. Anodynen on eurooppalainen asentoa korjaavien vaatteiden valmistaja ja jakelija, joka käyttää amerikkalaisen AlignMedin kehittämää tekniikkaa. Se on maailman ainoa Yhdysvaltain elintarvike- ja lääkeviraston (FDA) rekisteröimä asentoa korjaavien vaatteiden valmistaja. Anodynen asentoa korjaavat vaatteet ovat ainoina Euroopassa joka on saanut sekä FDA-rekisteröinnin että MDR\/CE-merkinnän (Luokka I), mikä on takuusi sille, että tuotteemme täyttävät lääkinnällisille laitteille asetetut vaatimukset.",
+              "column_width": 12,
+              "column_width_mobile": 12,
+              "text_alignment": "text-center",
+              "btn_text": "",
+              "btn_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "b1098b0a-da6e-4795-8ddc-230d0010ed64"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "margin__bottom": 0,
+          "section_style": "section-blank",
+          "wrapper_size": "-small"
+        }
+      },
+      "163032806406e9f003": {
+        "type": "quotes",
+        "blocks": {
+          "163032806406e9f003-0": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Nopeasti tuli ja on todella hyvälaatuinen ja jopa nätti ja toimii muistuttamalla, jos ryhti alkaa romahtaa.<\/em><br\/><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+              "author": "Alia K."
+            }
+          },
+          "163032806406e9f003-1": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Anodynen tuotteet ovat loistavaa ja taattua laatua. Itse en ainakaan koskaan tule hankkimaan tuotteita muualta.<\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+              "author": "Irene L."
+            }
+          },
+          "163032806406e9f003-2": {
+            "type": "quote",
+            "settings": {
+              "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+              "icon": "format_quote",
+              "quote": "<p><em>Kiitos,tuote oli kuvatun mukainen. Olemme jo muutaman kerran käyttäneet ,eivät tunnu liian raskailta käyttää.<br\/>            <\/em><\/p>",
+              "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+              "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+              "author": "Seija"
+            }
+          }
+        },
+        "block_order": [
+          "163032806406e9f003-0",
+          "163032806406e9f003-1",
+          "163032806406e9f003-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "quote_width": "60",
+          "arrows": true,
+          "dots": true,
+          "autoplay": true,
+          "autoplayspeed": 7
+        }
+      },
+      "1630331223d20499c6": {
+        "type": "featured-products",
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "Suosittuja tuotteita",
+          "subtitle": "",
+          "section_style": "section-blank",
+          "home_featured_products": "kaikki-tuotteet",
+          "rows": "1",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "show_view_all": true,
+          "button_label": "Kaikki tuotteet",
+          "button_link": "shopify:\/\/collections",
+          "button_style": "btn--primary",
+          "slider_related_products": false,
+          "arrows": false,
+          "dots": false,
+          "autoplay": false,
+          "autoplayspeed": 5
+        }
+      },
+      "1630404145a76c9e4d": {
+        "type": "featured-video",
+        "blocks": {
+          "1630404145a76c9e4d-0": {
+            "type": "video",
+            "settings": {
+              "video_cover_image": "shopify:\/\/shop_images\/Thumbnail_Anodyne-min-min.jpg",
+              "video_cover_image_fr": "shopify:\/\/shop_images\/Thumbnail_Anodyne-min-min.jpg",
+              "video_url": "https:\/\/www.youtube.com\/watch?v=iLhSIB5ajvg",
+              "video_url_fr": "",
+              "animated_button": true
+            }
+          }
+        },
+        "block_order": [
+          "1630404145a76c9e4d-0"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "full_width": false,
+          "title": "Keitä me olemme?",
+          "subtitle": "",
+          "section_style": "section-default"
+        }
+      },
+      "1630409395746d29de": {
+        "type": "featured-accordions",
+        "blocks": {
+          "1630409395746d29de-0": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Patentoitu NeuroBand™-teknologia Anodynen asentoa korjaavissa vaatteissa",
+              "accordion__inner-title": "",
+              "accordion__description": "Anodynen asentoa korjaavat vaatteet on valmistettu ainutlaatuisesta spandexin, polyesterin, nailonin ja elastaanin yhdistelmästä, joka antaa kestäviä ja hengittäviä tuotteita. Ne säilyttävät joustavuuden käytössä ja tekevät vaatteista mukavia päällä. Suunnittelussa hyödynnetään patentoitua NeuroBand™-tekniikkaa, joka on kinesioteipin innoittama ja perustuu ihmisen fysiologian tutkimukseen. Vaatteet on suunniteltu heijastamaan lihasten supistumista ja joustavuutta ja siten edistämään oikeaa ryhtiä.",
+              "accordion__buttontext": "Shop",
+              "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+            }
+          },
+          "1630409395746d29de-1": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Asentoa korjaavat vaatteet tarpeisiisi",
+              "accordion__inner-title": "",
+              "accordion__description": "Anodynen asentoa korjaavia vaatteita voivat käyttää kaikki. Myymme asentoa korjaavia t-paitoja, rintaliivejä ja liivejä, jotka on kaikki kehitetty auttamaan aktivoimaan lihaksia ja verenkiertoa sekä muistuttamaan siten kehoa omaksumaan paremman ryhdin. Anodynen asentoa korjaavia paitoja ja rintaliivejä voi käyttää milloin tahansa – urheilun aikana, töissä, ostoksilla, kävelylenkeillä, matkoilla, siivotessa tai muussa tekemisessä. Jotta saat eniten irti Anodynen asentoa korjaavista vaatteista, suosittelemme, että luet käyttöohjeet huolellisesti, jotta sinulla on oikeat edellytykset saavuttaa ihanteellinen vaikutus tuotteillamme.",
+              "accordion__buttontext": "Shop",
+              "accordion__LinkUrl": "shopify:\/\/collections\/kaikki-tuotteet"
+            }
+          },
+          "f87df513-1488-4240-a91d-ed8f2bb41077": {
+            "type": "Accordion",
+            "settings": {
+              "accordion_title": "Myös sinulle, jolla on vammoja",
+              "accordion__inner-title": "",
+              "accordion__description": "Jos kärsit vammasta tai sinulla on esim. diskusprolapsi, skolioosi, niveltulehdus tai vastaava, voit hyvin käyttää asentoa korjaavia vaatteita, mutta jos vaivaa ei ole vielä selvitetty, suosittelemme keskustelemaan alan ammattilaisen kanssa. Lisäksi on tärkeää, että valitset asentoa korjaavista vaatteista oikean koon, koska muuten et saa ihanteellista vaikutusta. Muista siksi tarkistaa kokotaulukko huolellisesti. Voit myös ottaa yhteyttä asiakaspalveluumme, joka auttaa mielellään vastaamaan kysymyksiisi tuotteistamme sekä löytämään oikean koon.",
+              "accordion__buttontext": "Shop",
+              "accordion__LinkUrl": "shopify:\/\/collections\/selkatuki"
+            }
+          },
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7": {
+            "type": "Accordion",
+            "disabled": true,
+            "settings": {
+              "accordion_title": "Blessures",
+              "accordion__inner-title": "Ook voor jou, als je blessures hebt",
+              "accordion__description": "Als je te maken hebt met een blessure of als je bijvoorbeeld een hernia, scoliose,artritis of iets dergelijks hebt, kun je onze houdingcorrigerende kleding prima gebruiken. Als het letsel nieuw is, raden we je aan dit eerst te bespreken met bijvoorbeeld je arts, fysiotherapeut of chiropractor. In sommige gevallen kan het houdingcorrigerende vest (MyLign of SpinalQ Pro) het beste zijn, omdat dat het meeste steun biedt. Het is belangrijk dat je de juiste maat houdingcorrigerende kleding bestelt, anders bereik je niet het optimale effect. Het beste is om naar de matentabel op onze productpagina's te kijken en bij twijfel contact op te nemen met onze klantenservice. Zij beantwoorden graag je vragen over onze producten en helpen je om de juiste maat te vinden.",
+              "accordion__buttontext": "",
+              "accordion__LinkUrl": ""
+            }
+          }
+        },
+        "block_order": [
+          "1630409395746d29de-0",
+          "1630409395746d29de-1",
+          "f87df513-1488-4240-a91d-ed8f2bb41077",
+          "225005a5-c60f-4ff1-be6b-7f7256b16ac7"
+        ],
+        "settings": {
+          "title": "Asentoa korjaavat vaatteet",
+          "section_style": "section-blank"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "collection_tags_enable": false,
+          "collection_tags_count": false,
+          "collection_multiple_tags_filtering_enable": false,
+          "collection_sort_enable": false,
+          "tag_selector": "button",
+          "rows": "4",
+          "desktop_grid": "4",
+          "mobile_grid": "2",
+          "collection_banner": "shopify:\/\/shop_images\/December-offers_FI.jpg",
+          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_FI.jpg",
+          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_FI_a6b5efd6-4d01-45a9-bd9f-1e239ad6cf56.jpg",
+          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_FI_4b0c9d3c-0c66-4212-aeff-65496e72ac7c.jpg"
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "show_tags_count": true,
+          "visibility_tags_count": "all"
+        }
+      },
+      "product-tabs-template": {
+        "type": "product-tabs-template",
+        "settings": {
+          "dbtfy_product_tabs_position": "under_description",
+          "show_product_vendor": false,
+          "show_product_type": false,
+          "show_product_sku": false,
+          "product_title_large": false,
+          "show_product_tags": false,
+          "show_sharing_icons": true,
+          "product_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_FI_ce45b613-ab17-4eac-9e23-dd625a19a885.jpg",
+          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_FI_cb3e7ea5-8b67-4500-852c-b4008b4805dd.jpg",
+          "show_product_collections": false,
+          "enable_image_zoom": true,
+          "enable_video_looping": true,
+          "media_layout": "thumbnails",
+          "image_size": "medium",
+          "quantity_enabled": true,
+          "product_selector": "radio",
+          "show_product_description": false,
+          "show_product_description_in_tabs": true,
+          "enable_split_description": false,
+          "description_full": false,
+          "dbtfy_product_description_position": "separate_section",
+          "description_style": "section-border",
+          "text_alignment": "text-center",
+          "text_alignment_mobile": "small--text-center"
+        }
+      },
+      "product-cards": {
+        "type": "product-cards",
+        "blocks": {
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Customerservice_copy_200px.png",
+              "title": "Asiakaspalvelu",
+              "text": "<p>Anodynella olemme aina valmiina auttamaan ennen, oston aikana sekä oston jälkeen. Pyrimme aina vastamaan sähköpostiin 24 tunnin sisällä arkipäivisin.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "86e60ed0-4f89-453b-bb6d-998997ba5497": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Returns_200px.png",
+              "title": "Palautusoikeus",
+              "text": "<p>Anodyne® tarjoaa kuluttaja- asiakkailleen 30 vuorokauden mittaisen palautusoikeuden. Palautussoikeuden 30 päivän aikamäärä alkaa siitä päivästä, kun vastaanotat tuotteen.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "title": "Kokeile 100% ilmaiseksi",
+              "text": "<p>Voimme nyt tarjota laskun Klarnan kautta. Sinulla on 30 päivän täysi palautusoikeus meidän tuotteille, mutta myös 30 päivän maksuaika.<\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          },
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd": {
+            "type": "row",
+            "settings": {
+              "card__icon": "shopify:\/\/shop_images\/Checkmark.png",
+              "title": "Alkuperäinen asentoa korjaava vaate",
+              "text": "<p>Alkuperäisiä Anodynen asentoa korjaavia vaatteita voi ostaa vain verkkokaupasta www.anodyne.fi tai hyväksytyiltä jälleenmyyjiltämme. <\/p>",
+              "card__alignement": "center",
+              "text_alignment": "text-center",
+              "type_row": "",
+              "tag_row": "",
+              "product_row": "",
+              "collection_row": ""
+            }
+          }
+        },
+        "block_order": [
+          "fe32e93f-234c-450d-8d07-e2efbc25f40e",
+          "86e60ed0-4f89-453b-bb6d-998997ba5497",
+          "cb8805d6-2cd1-4b82-aa5e-bcd50bd85ebc",
+          "1c9774d2-047f-45d4-8645-84edb4bf51cd"
+        ],
+        "settings": {
+          "show_product_card": true
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "show_on_desktop": false,
+          "show_on_mobile": false,
+          "hide_section": false,
+          "heading": "Our store",
+          "address": "<p>123 Fake St.<br\/>Toronto, Canada<\/p><p>Mon - Fri, 10am - 9pm<br\/>Saturday, 11am - 9pm<br\/>Sunday, 11am - 5pm<\/p>",
+          "map_address": "490 Rue De La Gauchetière O, Montréal",
+          "button_text": "Get directions",
+          "map_icon": "location_on",
+          "api_key": "",
+          "image_position": "center center"
+        }
+      },
+      "dbtfy-faq-page": {
+        "type": "dbtfy-faq-page",
+        "blocks": {
+          "29341fac-daad-4c41-9a03-40bd0d74e15b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten asentoa korjaavat vaatteet toimivat?",
+              "text": "<p>V: Asentoa korjaavat vaatteet on suunniteltu stimuloimaan lihasmuistia ja parantamaan tietoisuutta oman kehon ryhdistä. Ihossa on alueen mukaan vaihdellen 20 000–80 000 hermoreseptoria neliösenttimetrillä. Reseptorien avulla aistimme kosketusta, painetta ja lämpötilaa sekä reagoimme niihin. Hermopäätteet lähettävät aivoille signaaleja, jotka saavat jännittyneet lihakset rentoutumaan ja vähemmän käytetyt lihakset jäntevöitymään ja supistumaan.<br\/><br\/>Asentoa korjaavat vaatteet auttavat parantamaan jatkuvaa tietovirtaa ihon hermoreseptorien ja aivojen välillä. Sen tuloksena lihakset tekevät yhteistyötä, toimivat ja suojaavat kovalla kuormituksella olevia lihaksia. Tämä parantaa suorituskykyä, vähentää vammoja ja edistää paranemista. On tärkeää muistaa, että asentoa korjaavat vaatteet on tarkoitettu harjoittelun ja fysioterapian täydentäjiksi. Niillä yksistään ei voi hoitaa eikä ennaltaehkäistä vammoja.<\/p>"
+            }
+          },
+          "a638faa9-7039-468d-a1a6-0a53912ea9d7": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Mikä koko minun kannattaa valita?",
+              "text": "<p>Tutustu koko-oppaisiin asian varmistamiseksi. Jos satut olemaan kahden koon välissä, T-paidoista, housuista ja urheilurintaliiveistä kannattaa yleensä valita pienempi koko. SpinalQ- ja MyLign Pro -liiveissä puolestaan suurempi koko on tavallisesti parempi. Jos olet epävarma, ota yhteyttä meihin.<\/p>"
+            }
+          },
+          "85f9052b-6bfb-4384-badb-309abcb4d918": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Milloin vaatetta pitäisi käyttää?",
+              "text": "<p>Milloin vain! Tuotteita voi käyttää treeneissä, ostoksilla, kävelyretkellä, matkoilla, siivotessa, töissä tai muissa puuhissa. Jos sinulla on fyysisiä ongelmia, paita voi auttaa kiinnittämään huomiota ryhtiin ja sitä kautta keventää lujilla olevaan alueeseen kohdistuvaa rasitusta.<\/p>"
+            }
+          },
+          "2a740d2f-3ae5-411f-8d08-43e5559da517": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten pitkään vaatetta pitäisi käyttää kerrallaan?",
+              "text": "<p>Kaikki ihmiset ovat yksilöitä, ja vaatteen käyttö aktivoi lihaksiasi koko ajan. Nyrkkisääntönä käytön voi aloittaa käyttämällä paitaa 30–60 minuuttia päivässä ensimmäisen viikon ajan. Kun kehon asento vähitellen muuttuu ja epäaktiiviset lihakset aktivoituvat, aikaa voi pidentää omien tuntemusten mukaan. Vähittäinen totuttelu tekee siirtymästä kohti entistä parempaa ryhtiä sujuvan, ja ryhti pysyy yllä koko ajan pidempään.<\/p>"
+            }
+          },
+          "e75f9efe-cc1c-4a3c-b760-384e0ae0b3c4": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Milloin huomaan parannusta ryhdissäni?",
+              "text": "<p>Ryhdin paranemisen huomaa ja näkee saman tien. Kärsivällisyyttä kuitenkin tarvitaan, sillä kestää jonkin aikaa, ennen kuin keho oppii itse pitämään yllä hyvää asentoa. Lihasmuistiin jää jälkiä pelkästä asentoa korjaavan vaatteen käytöstä ja tavallisten toimien suorittamisesta (kävely, työnteko, kuntosali-, ratsastus-, pyöräily- tai juoksuharjoittelu jne.). Liikkuminen siis tehostaa uuden asennon oppimista. Lihasmuisti muuttuu nopeimmin suorittaessasi liikkeitä, joita teet tavallisen päivän mittaan useimmin. Näiden tekijöiden vaihtelun mukaan fyysiset muutokset näkyvät ja tuntuvat selvimmin, kun vaatetta on käytetty noin 60–90 päivää.<\/p>"
+            }
+          },
+          "a37e5336-3296-41f9-9516-3469e6d6f2fb": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Voivatko kaikki käyttää tuotteita?",
+              "text": "<p>Jos sinulla on vakava sairaus tai pahoja fyysisiä rajoitteita, keskustele fysioterapeutin kanssa ennen vaatteen käytön aloittamista. Jos olet ollut vastikään leikkauksessa, kysy lääkäriltä tai fysioterapeutilta, onko liian varhaista alkaa työstää kehon asentoa. Yleisesti emme suosittele tuotteiden käyttöä myöskään alle 17-vuotiaille keskustelematta siitä ensin lääkärin tai fysioterapeutin kanssa.<\/p>"
+            }
+          },
+          "4c2034f4-3c58-4c0c-b6c6-97c5968d3682": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten tiukasti Alignmed-vaatteen pitäisi istua?",
+              "text": "<p>Anodyne® on suunniteltu aivan ihonmyötäiseksi. Sen on istuttava napakasti, mutta se ei saa tuntua epämiellyttävältä. Sinun on voitava havaita ryhtisi suoristuvan, kun käytät vaatetta. Jos et tunne sitä, vaate on todennäköisesti yhtä kokoa liian suuri. Jos paidan kangas on rullalla hartioiden etu- tai takapuolella, paita saattaa olla liian suuri. Jos valitsemasi koko on väärä, voit palauttaa tuotteen sen mukana toimitettavan vaihto-ohjeen mukaisesti (ohje löytyy tuotepakkauksen sisältä) 30 päivän kuluessa siitä, kun olet vastaanottanut tuotteen. Vastaanotettuamme tuotepalautuksesi lähetämme sinulle haluamasi kokoisen uuden tuotteen. <\/p>"
+            }
+          },
+          "13178cd6-77f1-48c0-8dca-b9a9208fa9fd": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten tuotteita pitäisi hoitaa?",
+              "text": "<p>Alignmed-tuotteet kestävät konepesun enintään 30 asteessa, mutta tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin. Niitä EI KOSKAAN saa kuivata kuivausrummussa, sillä se tuhoaa vaatteet. <\/p>"
+            }
+          },
+          "598c72ce-7f6b-4de2-a7c3-fd825a8a9e6b": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Takaatteko, että kipuni vähenevät tai ryhtini paranee?",
+              "text": "<p>Koska kaikki ihmiset ovat erilaisia, emme voi taata, että saat asentoa korjaavista tuotteista toivomasi hyödyn. Ylivoimaisesti suurin osa tuotteiden käyttäjistä kuitenkin havaitsee selvää parannusta. Siksi annamme Anodyne-verkkokaupasta ostetuilla tuotteille 30 päivän täyden palautusoikeuden. Tuotteidemme palautusprosentti on alle neljä eli vain yksi käyttäjä 25:stä palauttaa ostoksensa.<br\/><br\/>Myönteisten vaikutusten todennäköisyyden lisäämiseksi tuotteita on käytettävä aina ohjeiden mukaisesti. Asentoa korjaavien vaatteiden liiallinen käyttö voi aiheuttaa sellaisia haittavaikutuksia kuin päänsärkyä, leuka- tai selkäkipua, niskan ja hartioiden arkuutta, mutta vaikutukset ovat hyvin yksilöllisiä. Siksi on tärkeää, että luet tuotteen mukana toimitettavan oppaan huolellisesti ja muistat antaa keholle aikaa totutella uuteen asentoon. Jos sinulla on kysyttävää asentoa korjaavien vaatteiden käytöstä, voit milloin tahansa ottaa yhteyttä Anodyneen.<\/p>"
+            }
+          },
+          "6933f4dd-02d4-4dcc-936a-fc707069ceee": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten pitkään paitani kestää käytössä?",
+              "text": "<p>Käyttöikä määräytyy sen mukaan, miten käsittelet paitaa sekä kuinka usein ja kauan käytät sitä. Muiden vaatteiden tavoin meidänkin vaatteisiimme tulee kulumisen merkkejä käyttömäärän mukaan. Kestävyyden kannalta erityisen tärkeää on se, että paitaa EI kuivata kuivausrummussa tai pestä koneessa yli 30 asteessa. Tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin.<\/p>"
+            }
+          },
+          "67d1f14b-469b-435c-a782-6f7367b6ad10": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Miten paita eroaa tukiliivistä?",
+              "text": "<p>Asentoa korjaava vaate on eri asia kuin tukiliivi tai selkätuki! Asentoa korjaava vaate muuttaa ryhtiäsi auttamalla kehoasi tukemaan itse itseään ja ottamalla käyttöön heikkouden, epätasapainon tai toimintahäiriön vuoksi heikkoja epäaktiivisia lihaksia. Kehoa ei tueta kiinteästi kuten kaiken liikkeen estäviä kaaria tai tukia käytettäessä. Niillä rajoitetaan kehon liikkuvuutta, mikä heikentää lihaksia ajan mittaan. Samalla keho tulee riippuvaiseksi ulkoisesta mekaanisesta tuesta. Anodyne-tuotteet stimuloivat lihaksia, eivät estä niiden liikkumista.<\/p>"
+            }
+          },
+          "0cecdf8d-695c-4921-b34e-48a6b9368d6c": {
+            "type": "text_block",
+            "settings": {
+              "dbtfy_faq_page_open": false,
+              "dbtfy_faq_page_icon": "",
+              "title": "K: Millaiset palautusehdot teillä on?",
+              "text": "<p>Toivomme aina, että olisit täysin tyytyväinen hankintaasi. Takaamme, ettei vastaanottamissasi tuotteissa ole valmistusvirheitä. Jos sellaisia kuitenkin esiintyy, tuotteen voi palauttaa meille välittömästi, ja me korvaamme tuotteen ostohinnan kokonaisuudessaan tai vaihdamme tuotteen uuteen. Palautusoikeus ei koske tuotteiden normaalia kulumista tai virheellisestä käytöstä aiheutuneita vaurioita. Tutustu myös toimitusehtoihimme.<br\/><br\/>Tarjoamme sinulle myös 30 päivän täyden palautusoikeuden siltä varalta, ettet ole tyytyväinen tuotteeseen. Tuote on palautettava Anodynelle® hyväkuntoisena, eikä se saa haista voimakkaasti esim. hajusteelta tai savulta. Tuotteen mukana on oltava alkuperäinen tuotepakkaus, ja sen pesu- ja tuotemerkintöjen on oltava vaurioitumattomia. Tuotteen voi pestä hajustamatonta pesuainetta käyttäen palautusoikeuden 30-päiväisen voimassaolon aikana, mutta jos tuote on kuivattu kuivausrummussa ennen sen palauttamista, voimme kieltäytyä palauttamasta tuotteen ostohinnan sinulle, sillä rumpukuivaus tuhoaa tuotteen.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "29341fac-daad-4c41-9a03-40bd0d74e15b",
+          "a638faa9-7039-468d-a1a6-0a53912ea9d7",
+          "85f9052b-6bfb-4384-badb-309abcb4d918",
+          "2a740d2f-3ae5-411f-8d08-43e5559da517",
+          "e75f9efe-cc1c-4a3c-b760-384e0ae0b3c4",
+          "a37e5336-3296-41f9-9516-3469e6d6f2fb",
+          "4c2034f4-3c58-4c0c-b6c6-97c5968d3682",
+          "13178cd6-77f1-48c0-8dca-b9a9208fa9fd",
+          "598c72ce-7f6b-4de2-a7c3-fd825a8a9e6b",
+          "6933f4dd-02d4-4dcc-936a-fc707069ceee",
+          "67d1f14b-469b-435c-a782-6f7367b6ad10",
+          "0cecdf8d-695c-4921-b34e-48a6b9368d6c"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "dbtfy_faq_searchbox": false,
+          "dbtfy_faq_search_placeholder": "Search questions...",
+          "dbtfy_faq_bannerbox": true,
+          "dbtfy_faq_banner_icon": "live_help",
+          "dbtfy_faq_banner_text": "",
+          "dbtfy_faq_banner_subtitle": "Anodynella olemme aina valmiina auttamaan ennen, oston aikana sekä oston jälkeen.",
+          "dbtfy_faq_btn": "Yhteystiedot",
+          "dbtfy_faq_link": "shopify:\/\/pages\/yhteystiedot"
+        }
+      },
+      "1638537314ac8666c1": {
+        "type": "featured-icons-columns",
+        "blocks": {
+          "1638537314ac8666c1-0": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Checkmark.png",
+              "icon": "",
+              "title": "Alkuperäinen asentoa korjaava vaate",
+              "text": "<p>Alkuperäisiä Anodynen asentoa korjaavia vaatteita voi ostaa vain verkkokaupasta www.anodyne.fi tai hyväksytyiltä jälleenmyyjiltämme. Huomaathan, että markkinoilla on monia väärennettyjä ja huonoja tuotteita. Vain yhdenlaiset asentoa korjaavat vaatteet on sekä FDA-rekisteröinnin että MDR\/CE-merkinnän; ne ovat Anodynen tuotteet; ne ovat Anodynen tuotteet – ole siis erityisen tarkkana, kun teet ostoksia verkossa.<\/p>",
+              "button_style": "btn--primary"
+            }
+          },
+          "1638537314ac8666c1-1": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+              "icon": "",
+              "title": "Asentoa korjaavia vaatteita 100% tyytyväisyystakuulla",
+              "text": "<p>Tarjoamme Anodynella aina 100% tyytyväisyystakuun, 30 päivän täyden palautusoikeuden sekä ilmaisen palautuksen ja vaihdon. Tämä tarkoittaa, että voit 30 päivää vapaasti sovittaa ja kokeilla tuotetta ja selvittää, vastaako se odotuksiasi. Liitämme kaikkien lähetysten mukaan ilmaisen palautustarran, joten tuotteiden palauttaminen tai vaihtaminen on helppoa ja yksinkertaista. Tavoitteemme on, että sinun pitää olla 100% tyytyväinen – aivan kuten tavoitteemme on ollut pian yli 300 000 eurooppalaista asiakasta, jotka ovat ostaneet Anodyne®-tuotteen 5 viime vuoden aikana.<\/p>",
+              "button_style": "btn--primary"
+            }
+          },
+          "1638537314ac8666c1-2": {
+            "type": "text_block",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Kinesio2_copy_200px.png",
+              "icon": "",
+              "title": "Kinesioteipistä asentoa korjaaviin vaatteisiin",
+              "text": "<p><a href=\"\/collections\/kaikki-tuotteet\" title=\"Kaikki tuotteet\"><span style=\"text-decoration:underline\">Asentoa korjaavat vaatteet<\/span><\/a> aktivoivat selkälihaksia, hartioita ja lapaluita rentouttamatta ja lukitsematta lihaksiasi tai niveliäsi. <a href=\"\/collections\/posture-shirt\" title=\"Posture Shirt™\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a> takana oleva tekniikka on kinesioteipin innoittama – hoitomuoto, jota fysioterapeutit ja kiropraktikot käyttävätkäsittelemään kipuja ja jännityksiä niskassa, hartioissa ja selässä. Kinesioteippausta käyttävät myös monet ammattiurheilijat stimuloimaan tiettyjä lihasryhmiä ja parantamaan ryhtiä.<\/p>",
+              "button_style": "btn--primary"
+            }
+          }
+        },
+        "block_order": [
+          "1638537314ac8666c1-0",
+          "1638537314ac8666c1-1",
+          "1638537314ac8666c1-2"
+        ],
+        "settings": {
+          "show_on_desktop": true,
+          "show_on_mobile": true,
+          "title": "",
+          "subtitle": "",
+          "section_style": "section-default",
+          "text_align": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "16300631015589eb65",
+      "1630063768bdfa2f5f",
+      "1630070175c6ebb320",
+      "163032369225153039",
+      "163032806406e9f003",
+      "1630331223d20499c6",
+      "1638537314ac8666c1",
+      "1630404145a76c9e4d",
+      "1630409395746d29de"
+    ]
+  }
+}
