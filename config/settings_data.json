@@ -27,7 +27,7 @@
     "sale_type": "percentage",
     "zindex_drawer": "999",
     "cart_notes_enable": false,
-    "color_announcement_bg": "#444444",
+    "color_announcement_bg": "#ff891d",
     "color_nav_text": "#252525",
     "color_default": "#f7f7f7",
     "color_headings": "#252525",
@@ -108,9 +108,9 @@
     "dbtfy_cart_discount_placeholder": "Anna alennuskoodi. Paina Päivitä.",
     "dbtfy_cart_discount_apply_button_label": "Paina Päivitä",
     "nlify_cart_notification": "Sopiiko tämä tuote minulle? Suosittelemme vertaamaan omia mittoja kokotaulukon mittoihin.",
-    "dbtfy_cart_goal_before_text": "0",
+    "dbtfy_cart_goal_before_text": "Osta",
     "dbtfy_cart_goal_amount": "49",
-    "dbtfy_cart_goal_after_text": "",
+    "dbtfy_cart_goal_after_text": "enemmän ja saat ilmaisen toimituksen",
     "dbtfy_cart_goal_reached_text": "Ilmainen toimitus",
     "dbtfy_cart_discount_savings_label": "Alennus",
     "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
@@ -165,160 +165,6 @@
     "sections": {
       "dbtfy-upsell-popup": {
         "type": "dbtfy-upsell-popup",
-        "blocks": {
-          "2847b519-2d1a-4cca-8526-c22751c873e5": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä rintaliiviesi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Anodyne®-liivien käyttöikää !<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "anodyne-rintaliivit",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-rintaliiveille",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "bfd52ba5-687e-49e8-ae4d-0925aec3bd8a": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-musta",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "ac17cfd6-5c71-4d34-9e09-28b96af8f7b1": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-valkoinen",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "1cbae896-c441-4e74-8668-d24ecdb52adb": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-musta",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "7befb9a4-d274-4679-946d-809abb3d0522": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "mens-posture-shirt-zipper-valkoinen",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "c03c88f2-20ac-4410-baee-0d9ca3c92897": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-musta",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "b4f59c32-5ceb-40cc-9314-02f39f31bdbd": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "b8cf6ea3-33e2-4a21-aa50-cf3de8cdbafe": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-valkoinen",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "e85e5a0c-14b8-49c6-8681-1b5181c6ffdb": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-musta",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          },
-          "f727db30-887d-49fa-bd6c-110886076533": {
-            "type": "upsell",
-            "settings": {
-              "dbtfy_upsell_popup_title": "Pidennä Posture Shirt® -paitasi käyttöikää vain €4",
-              "dbtfy_upsell_popup_text": "<p>Lisää pesupussi ja pidennä Posture Shirt® -paidan käyttöikää!<\/p>",
-              "dbtfy_upsell_popup_product_trigger": "womens-posture-shirt-zipper-valkoinen",
-              "dbtfy_upsell_popup_product_offer": "pesupussi-posture-shirt",
-              "dbtfy_upsell_popup_icons": "done",
-              "button_label": "Lisää ostoskoriin - €4",
-              "dbtfy_upsell_popup_discount_name": "",
-              "dbtfy_upsell_popup_discount_amount": "",
-              "dbtfy_upsell_popup_discount_type": "%"
-            }
-          }
-        },
-        "block_order": [
-          "2847b519-2d1a-4cca-8526-c22751c873e5",
-          "bfd52ba5-687e-49e8-ae4d-0925aec3bd8a",
-          "ac17cfd6-5c71-4d34-9e09-28b96af8f7b1",
-          "1cbae896-c441-4e74-8668-d24ecdb52adb",
-          "7befb9a4-d274-4679-946d-809abb3d0522",
-          "c03c88f2-20ac-4410-baee-0d9ca3c92897",
-          "b4f59c32-5ceb-40cc-9314-02f39f31bdbd",
-          "b8cf6ea3-33e2-4a21-aa50-cf3de8cdbafe",
-          "e85e5a0c-14b8-49c6-8681-1b5181c6ffdb",
-          "f727db30-887d-49fa-bd6c-110886076533"
-        ],
         "settings": {
           "dbtfy_upsell_popup_width": "",
           "dbtfy_upsell_popup_description": "See product details",
@@ -446,7 +292,7 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>30 päivän täysi palautusoikeus & Ilmainen paluukuljetus<\/p>",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.fi\/pages\/anodyne-alennuskoodi\" title=\"https:\/\/www.anodyne.fi\/pages\/anodyne-alennuskoodi\"><strong>Klikkaa tästä - Säästä 10%<\/strong><\/a><\/p>",
               "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
@@ -1145,8 +991,6 @@
           "rows": "4",
           "desktop_grid": "4",
           "mobile_grid": "2",
-          "collection_banner": "shopify:\/\/shop_images\/December-offers_FI.jpg",
-          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_FI.jpg",
           "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_FI_a6b5efd6-4d01-45a9-bd9f-1e239ad6cf56.jpg",
           "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_FI_4b0c9d3c-0c66-4212-aeff-65496e72ac7c.jpg"
         }
