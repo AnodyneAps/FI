@@ -3391,7 +3391,20 @@ button {
     }
   }
 }
-
+.custom__labels--label{
+  position: absolute;
+  bottom: 10px;
+  z-index: 999;
+  background: $cAccent;
+  padding: 1px 10px;
+  font-size: 0.819rem;
+  font-weight: 500;
+  color: $white;
+  @include screenUp($postSmall){
+    padding: 2px 14px;
+    font-size: 0.999rem;
+  }
+}
 /*================ _Dropdown ================*/
 // Dropdown wrapper
 .dropdown-wrapper {
@@ -5267,7 +5280,7 @@ cite {
   // Track
   .slick-track {
     @include display-flexbox;
-    @include flex-wrap(wrap);
+    @include flex-wrap(nowrap);
   }
 
   // Slide
@@ -6092,8 +6105,9 @@ cite {
 
 // Drawer inner
 .drawer__inner {
-  overflow-y: auto;
-  overflow-x: hidden;
+  // overflow-y: auto;
+  // overflow-x: hidden;
+  overflow: hidden;
   -webkit-overflow-scrolling: touch;
   position: relative;
   @include flex(auto);
@@ -6778,7 +6792,7 @@ margin: 0 0.3rem;
 
 /*================ _Cart_ajax ================*/
 #CartDrawer {
-  @include flex-direction(row);
+  @include flex-direction(column);
 }
 
 .ajaxcart-loading {
@@ -6786,6 +6800,7 @@ margin: 0 0.3rem;
   @include display-flexbox();
   @include align-items(center);
   @include justify-content(center);
+  height: 100vh;
 
   .ajaxcart--is-loaded & {
     display: none;
@@ -6797,7 +6812,9 @@ margin: 0 0.3rem;
     display: none;
   }
 }
-
+.flex-full__overflowy--auto{
+  overflow-y: auto !important;
+}
 .ajaxcart_row {
   @include transition($transitions);
 

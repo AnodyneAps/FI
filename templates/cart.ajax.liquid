@@ -202,9 +202,7 @@
           </div>
         {%- endfor -%}
       </div>
-
-      {%- render "dbtfy-cart-discount", position: "cart_drawer" -%}
-
+<!-- discount code  -->
       <div class="drawer__inner-section">
         {%- if cart.cart_level_discount_applications != blank -%}
           {%- for discount_application in cart.cart_level_discount_applications -%}
@@ -260,13 +258,22 @@
           <label for="CartSpecialInstructions">
             <span class="{{ settings.icon }} icon-width" aria-hidden="true">info</span> {{ 'cart.general.note' | t }}
           </label>
-
           <textarea rows="3" name="note" class="input-full" id="CartSpecialInstructions">{{ cart.note }}</textarea>
         </div>
       {%- endif -%}
     {%- endif -%}
   </div>
-
+  <!--custom info box and discount code moved -->
+  {%- if cart.item_count > 0 -%}
+    {%- if settings.nlify_cart_notification != blank -%}
+    <div class="nlify_custom_text text-center">
+      <p class="small">{%- if settings.nlify_custom_drawer_icon != blank -%}<span class="custom_icon {{ settings.icon }} icon-width">
+        {{ settings.nlify_custom_drawer_icon}} </span> {%- endif-%} {{settings.nlify_cart_notification}}</p>
+    </div>
+   {%- endif -%}
+   {%- render "dbtfy-cart-discount", position: "cart_drawer" -%}
+  {%- endif -%}
+    <!--custom info box and discount code moved -->
   <div class="drawer__footer">
     {%- if cart.item_count == 0 -%}
       <a href="{{ settings.browsing_link }}"
