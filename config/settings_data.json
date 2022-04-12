@@ -1025,8 +1025,10 @@
           "product_title_large": false,
           "show_product_tags": false,
           "show_sharing_icons": true,
-          "product_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_FI_ce45b613-ab17-4eac-9e23-dd625a19a885.jpg",
-          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_FI_cb3e7ea5-8b67-4500-852c-b4008b4805dd.jpg",
+          "product_banner": "shopify:\/\/shop_images\/banner-dfi.png",
+          "product_banner_mobile": "shopify:\/\/shop_images\/banner-mfi.png",
+          "product_banner_postureshirt": "shopify:\/\/shop_images\/banner-dfi.png",
+          "product_banner_mobile_postureshirt": "shopify:\/\/shop_images\/banner-mfi.png",
           "show_product_collections": false,
           "enable_image_zoom": true,
           "enable_video_looping": true,
@@ -1287,7 +1289,7 @@
               "image": "shopify:\/\/shop_images\/Smile2_200px.png",
               "icon": "",
               "title": "Asentoa korjaavia vaatteita 100% tyytyväisyystakuulla",
-              "text": "<p>Tarjoamme Anodynella aina 100% tyytyväisyystakuun, 30 päivän täyden palautusoikeuden sekä ilmaisen palautuksen ja vaihdon. Tämä tarkoittaa, että voit 30 päivää vapaasti sovittaa ja kokeilla tuotetta ja selvittää, vastaako se odotuksiasi. Liitämme kaikkien lähetysten mukaan ilmaisen palautustarran, joten tuotteiden palauttaminen tai vaihtaminen on helppoa ja yksinkertaista. Tavoitteemme on, että sinun pitää olla 100% tyytyväinen – aivan kuten tavoitteemme on ollut pian yli 300 000 eurooppalaista asiakasta, jotka ovat ostaneet Anodyne®-tuotteen 5 viime vuoden aikana.<\/p>",
+              "text": "<p>Tarjoamme Anodynella aina 100% tyytyväisyystakuun, 30 päivän täyden palautusoikeuden sekä ilmaisen palautuksen ja vaihdon. Tämä tarkoittaa, että voit 30 päivää vapaasti sovittaa ja kokeilla tuotetta ja selvittää, vastaako se odotuksiasi. Tavoitteemme on, että sinun pitää olla 100% tyytyväinen – aivan kuten tavoitteemme on ollut pian yli 300 000 eurooppalaista asiakasta, jotka ovat ostaneet Anodyne®-tuotteen 5 viime vuoden aikana.<\/p>",
               "button_style": "btn--primary"
             }
           },
