@@ -309,7 +309,7 @@
       "sold_out": "Loppuunmyyty",
       "sold_out_html": "Loppuunmyyty",
       "unavailable": "Ei käytettävissä",
-      "quantity": "Yksikköhinta",
+      "quantity": "Valitse vaihtoehto",
       "add_to_cart": "Lisää ostoskoriin",
       "replace": "Korvata",
       "full_details": "Kaikki tiedot",
@@ -334,7 +334,7 @@
       "tab-delivery": "Toimitus & palautukset"
     },
     "radios": {
-      "radio-one": "Osta",
+      "radio-one": "",
       "radio-save-amount": "Säästä"
     },
     "sizes": {
