@@ -303,15 +303,49 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.fi\/collections\/kaikki-tuotteet\" title=\"https:\/\/www.anodyne.fi\/collections\/kaikki-tuotteet\"><strong>SÄÄSTÄ JOPA <\/strong><span style=\"text-decoration:underline\"><strong>-40%<\/strong><\/span><strong> KAIKESTA<\/strong><\/a><\/p>",
+              "announcement_text": "<p>Ilmainen toimitus yli 49€ ostoksille<\/p>",
+              "icon_selector": "truck",
               "announcement_counter": "",
+              "announcemen_link": "https:\/\/www.anodyne.fi\/collections\/kaikki-tuotteet",
+              "announcement_end_text": ""
+            }
+          },
+          "52351566-ac9e-4ab2-a1d1-69ab6527e2c7": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Ilmainen paluukuljetus<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "3cd31adf-5ef8-4b3a-81d3-673d6af3fba6": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Yli 500 000 myytyä tuotetta<\/p>",
+              "icon_selector": "smily",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "91175bc3-4511-4536-ab53-d9286b47c970": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>30 päivän täysi palautusoikeus<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "52351566-ac9e-4ab2-a1d1-69ab6527e2c7",
+          "3cd31adf-5ef8-4b3a-81d3-673d6af3fba6",
+          "91175bc3-4511-4536-ab53-d9286b47c970"
         ],
         "settings": {
           "show_announcement": true,
@@ -697,7 +731,7 @@
           "image_position": "center center",
           "video_title": "<span class=\"first\">Tervetuloa<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Vaatteet Anodyneltä! Suunniteltu lisäämään ryhtitietoisuutta ja sen kautta antamaan lisää fokusta ryhtiin arjessa.<\/strong><\/p>",
+          "text_description": "<p><strong>SÄÄSTÄ JOPA <\/strong><span style=\"text-decoration:underline\"><strong>-40%<\/strong><\/span><strong> KAIKESTA<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "Naiset",
           "button_link": "shopify:\/\/collections\/naiset",
