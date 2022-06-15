@@ -306,7 +306,7 @@
               "announcement_text": "<p>Ilmainen toimitus yli 49€ ostoksille<\/p>",
               "icon_selector": "truck",
               "announcement_counter": "",
-              "announcemen_link": "https:\/\/www.anodyne.fi\/collections\/kaikki-tuotteet",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -316,7 +316,7 @@
               "announcement_text": "<p>Ilmainen paluukuljetus<\/p>",
               "icon_selector": "return",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -326,7 +326,7 @@
               "announcement_text": "<p>Yli 500 000 myytyä tuotetta<\/p>",
               "icon_selector": "smily",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -336,7 +336,7 @@
               "announcement_text": "<p>30 päivän täysi palautusoikeus<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           }
@@ -1238,7 +1238,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "K: Miten tuotteita pitäisi hoitaa?",
-              "text": "<p>Alignmed-tuotteet kestävät konepesun enintään 30 asteessa, mutta tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin. Niitä EI KOSKAAN saa kuivata kuivausrummussa, sillä se tuhoaa vaatteet. <\/p>"
+              "text": "<p>Tuotteiden mahdollisimman pitkän käyttöiän varmistamiseksi suosittelemme käsinpesua. Niitä EI SAA KOSKAAN kuivata rumpukuivauksessa, koska se vahingoittaa vaatetta. <\/p>"
             }
           },
           "598c72ce-7f6b-4de2-a7c3-fd825a8a9e6b": {
@@ -1256,7 +1256,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "K: Miten pitkään paitani kestää käytössä?",
-              "text": "<p>Käyttöikä määräytyy sen mukaan, miten käsittelet paitaa sekä kuinka usein ja kauan käytät sitä. Muiden vaatteiden tavoin meidänkin vaatteisiimme tulee kulumisen merkkejä käyttömäärän mukaan. Kestävyyden kannalta erityisen tärkeää on se, että paitaa EI kuivata kuivausrummussa tai pestä koneessa yli 30 asteessa. Tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin.<\/p>"
+              "text": "<p>Käyttöikä määräytyy sen mukaan, miten käsittelet paitaa sekä kuinka usein ja kauan käytät sitä. Muiden vaatteiden tavoin meidänkin vaatteisiimme tulee kulumisen merkkejä käyttömäärän mukaan. Kestävyyden kannalta erityisen tärkeää on se, että paitaa EI kuivata kuivausrummussa. Tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin.<\/p>"
             }
           },
           "67d1f14b-469b-435c-a782-6f7367b6ad10": {
@@ -1351,6 +1351,15 @@
           "subtitle": "",
           "section_style": "section-default",
           "text_align": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "section_height": "medium",
+          "collection_per_page": 12
         }
       }
     },
