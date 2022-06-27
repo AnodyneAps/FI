@@ -287,9 +287,10 @@
       </div>
     </div>
   </div>
-
 </footer>
-
+{% if section.settings.show_bottom_counter %}
+{%- render 'flip-clock' -%}
+{% endif %}
 
 {% schema %}
   {
@@ -343,6 +344,22 @@
         "type": "richtext",
         "id": "custom_credential",
         "label": "Custom credential"
+      },
+      {
+        "type": "header",
+        "content": "Bottom Counter"
+      },
+      {
+        "type": "text",
+        "id": "bottom_counter_text",
+        "label": "Add counter text",
+        "default": "Lähetämme pakettisi"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_bottom_counter",
+        "label": "Show Counter at the bottom of the website",
+        "default": false
       }
     ],
     "blocks" : [
